@@ -12,7 +12,7 @@
 
 - 👩🏻‍🚀 I'm the founder and CTO of Nowigo;
 
-- 👩🏻‍💻 Senior Software Engineer at WatchGuard;
+- 👩🏻‍💻 Staff Development Engineer at WatchGuard;
 
 
 ### Where to find me:
@@ -25,21 +25,4 @@
   <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
 </a>
 
-<br/><br/>
-
-
-## Coding Activity
-
 <br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-H-Fialho&show_icons=true&theme=dracula" alt="Pedro Fialho's github stats" />
-</p>
-
-<br/>
-
-<p align="right">
-  <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/Pedro-H-Fialho/Pedro-H-Fialho" alt="Visitors badge" />
-   </a>
-</p>
